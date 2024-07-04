@@ -12,6 +12,7 @@ RUN apt-get update && \
     apt-transport-https \
     ca-certificates \
     curl \
+    vim \
     gnupg \
     lsb-release
 
