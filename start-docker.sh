@@ -1,4 +1,5 @@
 #!/bin/bash
+Create by: Leandro Henrique 
 
 # Iniciar o Docker daemon
 dockerd &
