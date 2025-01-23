@@ -2,7 +2,7 @@
 
 #Instruções de uso
 
-#1. Construir a Imagem Docker
+# 1. Construir a Imagem Docker
 
 Após baixar o projeto, entre na pasta do projeto e execute o seguinte comando para construir a imagem Docker:
 
